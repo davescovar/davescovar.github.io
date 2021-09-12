@@ -196,7 +196,7 @@ incremental: false
 
 # Collections
 collections:
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   # research:
