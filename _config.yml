@@ -111,11 +111,11 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:david.escobar.vargas@umontreal.ca"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/david-escobar-627691b5/"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=plA5VHcAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/davescovar"
@@ -130,11 +130,11 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      icon: "fas fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/david-escobar-627691b5/"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=plA5VHcAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/davescovar"
