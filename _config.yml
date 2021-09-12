@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "David Escobar Vargas"
   avatar           : "/assets/images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "PhD candidate Computer Science, University of Montreal."
   location         : "Montreal, Canada"
   email            :
   links:
